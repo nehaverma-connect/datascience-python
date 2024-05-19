@@ -1,0 +1,4 @@
+Hello! Welcome to the world of Python.
+We are also trying our hands on File Operation.
+We hope we learn and then dive into the area of AI/ML.
+Checking if append works for file.
